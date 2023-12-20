@@ -3,6 +3,8 @@
 <h3 align="center">A junior Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently seeking a **Full-Stack Web Developer position**
+- 🌱 I’m have just finished **a wonderful 9-week journey with Le Wagon Web Development Bootcamp**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
